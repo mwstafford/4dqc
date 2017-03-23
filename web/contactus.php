@@ -1,6 +1,6 @@
 <?php
-include($_SERVER['DOCUMENT_ROOT'].'/php/header1.php');
-include($_SERVER['DOCUMENT_ROOT'].'/php/menu1.php');
+include($_SERVER['DOCUMENT_ROOT'].'/includes/header1.php');
+include($_SERVER['DOCUMENT_ROOT'].'/includes/menu1.php');
 ?>
 
 <div class="content">
@@ -12,5 +12,5 @@ include($_SERVER['DOCUMENT_ROOT'].'/php/menu1.php');
 </div>
 
 <?php
-include($_SERVER['DOCUMENT_ROOT'].'/php/footer1.php');
+include($_SERVER['DOCUMENT_ROOT'].'/includes/footer1.php');
 ?>
