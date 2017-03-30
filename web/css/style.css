@@ -79,6 +79,9 @@ body {
 	margin-right: auto;
         margin-left: auto;
         width: 80%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-image: url(http://biocode1.com/images/blue-grad-bkgrd1.png);
         background-color: #025587;
         border-style: solid;
         border-color: #000000;

@@ -15,6 +15,6 @@
 <div class="body-container">
 <div class="title-container">
 <div class="title-subcontainer1">
-<a href="<?php echo $rooturl; ?>/"><img src="<?php echo $rooturl; ?>/images/4dqc-logo2.png" alt="<?php echo $company_name; ?> Logo" border="0"></a>
+<a href="<?php echo $rooturl; ?>/"><img src="<?php echo $rooturl; ?>/images/4dqc-logo3.png" alt="<?php echo $company_name; ?> Logo" border="0"></a>
 </div>
 </div>
