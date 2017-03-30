@@ -1,51 +1,41 @@
 body {
+	#background-image: url(http://intelliaire.com/images/backgrd01.png);
+	#background-repeat: repeat;
 	#padding: 0px 0px 40px 0px;       
 	}
 
 .top-menu-container {
+ 	#background-image: url(http://intelliaire.com/images/logo2-bkgrd.png);
+	padding: 0;
+	text-align: left;
 	width: 100%;
-	background-color:#025587;
+	margin-right: 0;
+	margin-left: 0;
 	border-style: solid;
-	border-color: #000000;
+	border-color: #385076;
 	border-bottom-width: 0px;
 	border-top-width: 0px;
 	border-left-width: 0px;
 	border-right-width: 0px;
 	}
 
-.top-menu-subcontainer1 {
-        padding: 0;
-        text-align: left;
-        width: 80%;
-        margin-right: auto;
-        margin-left: auto;
-        background-color:#24292c;
-        border-radius: 7px 7px 0px 0px;
-	border-style: solid;
-        border-color: #000000;
-        border-bottom-width: 0px;
-        border-top-width: 1px;
-        border-left-width: 1px;
-        border-right-width: 1px;
-        }
-
 .top-menu-stuff {
 	padding-top: 5px;
 	padding-bottom: 5px;
 	padding-top: 5px;
 	padding-top: 5px;
-	color: fefefe#;
+	color: #333333;
 	font-family: Verdana, Arial, sans-serif;
 	font-size: 12pt;
 	text-indent: 20px;
 	}
 
 .top-menu-stuff a:link {
-	color: #fefefe;
+	color: #035d7b;
 	text-decoration: none; }
 	
 .top-menu-stuff a:visited {	
-	color: #fefefe;
+	color: #035d7b;
 	text-decoration: none; }
 	
 .top-menu-stuff a:hover {
@@ -57,13 +47,14 @@ body {
         text-decoration: none; }
 
 .title-container {
-	height: 120px;
+	height: 200px;
+	background-image: url(http://intelliaire.com/images/logo2-bkgrd.png);
+	#background-color: #96AF9A;
 	margin-right: 0;
 	margin-left: 0;
 	text-align: left;
 	padding: 0px;
 	width: 100%;
-	background-color: #025587;
 	border-style: solid;
 	border-color: #385076;
 	border-bottom-width: 0px;
@@ -72,22 +63,6 @@ body {
 	border-right-width: 0px;
 	text-decoration: none;
 	}
-
-.title-subcontainer1 {
-        text-align: left;
-        padding: 0px;
-	margin-right: auto;
-        margin-left: auto;
-        width: 80%;
-        background-color: #025587;
-        border-style: solid;
-        border-color: #000000;
-        border-bottom-width: 0px;
-        border-top-width: 0px;
-        border-left-width: 0px;
-        border-right-width: 0px;
-        text-decoration: none;
-        }
 
 .body-container {
 	#background-color: #FFFFFF;
@@ -108,54 +83,13 @@ body {
 	
 
 .content {
-	width: 100%;
-        margin-right: auto;
-        margin-left: auto;
-	border-style: solid;
-        border-color: #385076;
-        border-bottom-width: 0px;
-        border-top-width: 0px;
-        border-left-width: 0px;
-        border-right-width: 0px;
-	background-color: #ffffff;
+	padding: 50px 50px 50px 50px;
+	background-color: #FFFFFF;
 	color: #2E2E2E;
 	font-family: Verdana, Arial, sans-serif;
 	font-size: 1.1em;
 	}
 	
-.content-sub1 {
-        width: 80%;
-	height: 100%;
-        margin-right: auto;
-        margin-left: auto;
-	margin-bottom: 30px;
-        padding: 0px 0px 0px 0px;
-        border-style: solid;
-        border-color: #385076;
-        border-bottom-width: 1px;
-        border-top-width: 0px;
-        border-left-width: 1px;
-        border-right-width: 1px;
-        background-color: #FFFFFF;
-        color: #2E2E2E;
-        font-family: Verdana, Arial, sans-serif;
-        font-size: 1.1em;
-        }
-
-.content-sub2 {
-        padding: 20px 20px 20px 20px;
-        border-style: solid;
-        border-color: #385076;
-        border-bottom-width: 0px;
-        border-top-width: 0px;
-        border-left-width: 0px;
-        border-right-width: 0px;
-        background-color: #FFFFFF;
-        color: #2E2E2E;
-        font-family: Verdana, Arial, sans-serif;
-        font-size: 1.1em;
-        }
-
 	
 
 .content p {

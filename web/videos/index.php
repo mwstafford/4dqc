@@ -1,15 +1,12 @@
 <?php
-include($_SERVER['DOCUMENT_ROOT'].'/includes/config1.php');
 include($_SERVER['DOCUMENT_ROOT'].'/includes/header1.php');
 include($_SERVER['DOCUMENT_ROOT'].'/includes/menu1.php');
 ?>
 
-<div class="content">
-<div class="content-sub1">
-<div class="content-sub2">
-test
-</div>
-</div>
+<div class="content"  style="min-width:970px">
+
+
+<div style="clear:both;"></div>
 </div>
 
 <?php
