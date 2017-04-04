@@ -1,4 +1,5 @@
 <?php
+$title='Videos';
 include($_SERVER['DOCUMENT_ROOT'].'/includes/config1.php');
 include($_SERVER['DOCUMENT_ROOT'].'/includes/header1.php');
 include($_SERVER['DOCUMENT_ROOT'].'/includes/menu1.php');

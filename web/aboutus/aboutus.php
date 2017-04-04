@@ -1,4 +1,6 @@
 <?php
+$title='About Us';
+include($_SERVER['DOCUMENT_ROOT'].'/includes/config1.php');
 include($_SERVER['DOCUMENT_ROOT'].'/includes/header1.php');
 include($_SERVER['DOCUMENT_ROOT'].'/includes/menu1.php');
 ?>
@@ -12,11 +14,18 @@ include($_SERVER['DOCUMENT_ROOT'].'/includes/menu1.php');
 <p>The 4DQC team members are seasoned professionals with decades of experience in their
 respective specialties. 
 </p>
-<h2>Fred Strathmann, Ph.D.</h2>
-<p>Vice President of Quality Assurance at NMS Laboratories. His major areas of focus have included small molecules such as drugs/metabolites, peptide
+<h2>Fred Strathmann, Ph.D.<br><span style="font-style:italic; font-size:.6em;">Founder and Chief Technical Officer</span></h2>
+<p>Dr. Strathmann is also Vice President of Quality Assurance at NMS Laboratories. His major areas of focus have included small molecules such as drugs/metabolites, peptide
 analyses and various endocrinology-related tests using multiplexed liquid chromatography, tandem mass spectrometry and ion mobility technology. 
 Dr. Strathmann is board certified in Clinical Chemistry and Toxicological Chemistry from the American Board of Clinical
 Chemistry and is CTO and founder of 4DQC. He leads the design, function and architecture of the Company.
+
+<h2>Scott McClellan<br><span style="font-style:italic; font-size:.6em;">Chief Executive Officer</span></h2>
+<p>Mr. McClellan has more than 25 years of engineering experience.  He holds degrees in bioengineering from UCSD and University of
+Utah and has several successful startup companies, successful IT projects and Big Data database projects to his credit.  His primary function with
+4DQC is to oversee the direction and future opportunities for the Company.
+</p>
+
 
 <h2>Kevin Freeman</h2>
 <p>Mr. Freeman is an extraordinarily talented developer with numerous Data and IT projects to his credit. Mr. Freeman is a graduate of Duke University 
@@ -35,13 +44,8 @@ implementation teams. Ms. Cuttitta oversees the project and product development 
 He has experience with cloud based systems, big data, micro services, and containerized systems featuring auto-healing and auto-scaling.
 His function for 4DQC is to provide IT support, server maintenance and scalability as well as LIS/LIMS integration when needed.  
 
-
-<h2>Scott McClellan</h2>
-<p>CEO of 4DQC. Mr. McClellan has more than 25 years of engineering experience.  He holds degrees in bioengineering from UCSD and University of
-Utah and has several successful startup companies, successful IT projects and Big Data database projects to his credit.  His primary function with
-4DQC is to oversee the direction and future opportunities for the Company.
-</p> 
-
+<p>-------</p>
+	
 <p>4DQC also has a strong group of technical advisors including 
 top toxicologists, bioengineers and software engineers. The team has been working well together for more than 22 months and have 
 resolved technical issues as they have arisen.

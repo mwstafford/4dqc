@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title><?php echo $company_name; ?></title>
+<title><?php echo $title; ?></title>
 <link rel="stylesheet" href="<?php echo $rooturl; ?>/css/style.css" type="text/css">
 
 <meta http-equiv="description" content="4DQC">

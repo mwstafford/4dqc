@@ -1,4 +1,5 @@
 <?php
+$title = '4DQC';
 include($_SERVER['DOCUMENT_ROOT'].'/includes/config1.php');
 include($_SERVER['DOCUMENT_ROOT'].'/includes/header1.php');
 include($_SERVER['DOCUMENT_ROOT'].'/includes/menu1.php');
@@ -8,7 +9,11 @@ include($_SERVER['DOCUMENT_ROOT'].'/includes/menu1.php');
 <div class="content-sub1">
 <div class="content-sub2">
 
-<p>4DQC is a quality control software package aimed at imprioving laboratory medicine efficiencies and
+<h1>4DQC</h1>
+
+<img src="<?php echo $rooturl; ?>/images/report-image1.png" style="float:right; padding:5px; width:50%; height:auto;"alt="4DQC Chart">
+
+<p>A quality control software package aimed at improving laboratory medicine efficiencies and
 lowering costs related to mass spectrometry (MS).
 4DQC's web-based software suite for reference/clinical laboratories saves time on manual quality control (QC) processes 
 and gives laboratory personnel and physician's insight into the overall health of their laboratory operations
