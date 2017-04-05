@@ -16,6 +16,7 @@ include($_SERVER['DOCUMENT_ROOT'].'/includes/menu1.php');
 <p>
 Scott McClellan<br>
 smcclellan@4DQC.com<br>
+(801) 231-1897 cell<br>
 </p>
 <p>
 Frederick Strathmann<br>
