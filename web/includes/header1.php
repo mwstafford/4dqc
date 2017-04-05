@@ -4,8 +4,8 @@
 <title><?php echo $title; ?></title>
 <link rel="stylesheet" href="<?php echo $rooturl; ?>/css/style.css" type="text/css">
 
-<meta http-equiv="description" content="4DQC">
-<meta http-equiv="keywords" content="4DQC">
+<meta http-equiv="description" content="4DQC mass spectrometry quality control software.">
+<meta http-equiv="keywords" content="4DQC, mass spectrometry quality control, quality control software, quality assurance, statistical quality control, standardization, laboratory medicine, bottleneck analysis, workflow optimization, cloud computing, laboratory analytics, big data, bias, imprecision">
 <meta name="robots" content="index">
 <meta name="revisit-after" Content="14 days">
 
