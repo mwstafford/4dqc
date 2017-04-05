@@ -14,7 +14,7 @@ include($_SERVER['DOCUMENT_ROOT'].'/includes/menu1.php');
 <p>The 4DQC team members are seasoned professionals with decades of experience in their
 respective specialties. 
 </p>
-<h2>Fred Strathmann, Ph.D.<br><span style="font-style:italic; font-size:.6em;">Founder and Chief Technical Officer</span></h2>
+<h2>Frederick Strathmann, Ph.D.<br><span style="font-style:italic; font-size:.6em;">Founder and Chief Technical Officer</span></h2>
 <p>Dr. Strathmann is also Vice President of Quality Assurance at NMS Laboratories. His major areas of focus have included small molecules such as drugs/metabolites, peptide
 analyses and various endocrinology-related tests using multiplexed liquid chromatography, tandem mass spectrometry and ion mobility technology. 
 Dr. Strathmann is board certified in Clinical Chemistry and Toxicological Chemistry from the American Board of Clinical

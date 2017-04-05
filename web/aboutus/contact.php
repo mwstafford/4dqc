@@ -16,12 +16,10 @@ include($_SERVER['DOCUMENT_ROOT'].'/includes/menu1.php');
 <p>
 Scott McClellan<br>
 smcclellan@4DQC.com<br>
-(801) 231-1897 cell<br>
 </p>
 <p>
-Fredrick Strathmann<br>
+Frederick Strathmann<br>
 fstrathmann@4DQC.com<br>
-(585) 301-6649 cell<br>
 </p>
 
 <p>
