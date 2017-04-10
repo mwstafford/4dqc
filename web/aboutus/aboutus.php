@@ -31,8 +31,7 @@ Utah and has several successful startup companies, successful IT projects and Bi
 <p>Mr. Freeman is an extraordinarily talented developer with numerous Data and IT projects to his credit. Mr. Freeman is a graduate of Duke University 
 with 20+ years of software development and database engineering experience. His projects include databases and rapid prototype systems 
 for world-wide human resource management (SRA), multi-billion dollar banking applications, accident and an injury correlation database 
-for NASCAR and FIA. Mr. Freeman is also an accomplished project lead and animator for Sony pictures with no fewer than 17
-major animated feature length films.
+for NASCAR and FIA. Mr. Freeman has also worked professionally for feature film and game with various film credits.
 
 <h2>Erica Cuttitta</h2>
 <p> Ms. Cuttitta has more than 17 years experience in healthcare informatics in a multitude of roles and projects. She has managed projects 
