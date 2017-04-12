@@ -48,8 +48,8 @@ His function for 4DQC is to provide IT support, server maintenance and scalabili
 <p>-------</p>
 	
 <p>4DQC also has a strong group of technical advisors including 
-top toxicologists, bioengineers and software engineers. The team has been working well together for more than 22 months and have 
-resolved technical issues as they have arisen.
+top toxicologists, bioengineers and software engineers. The 4DQC team has been working well together for more than 2 years and have 
+resolved technical issues as they have arisen. Core members of the team have been working together for nearly 20 years.
 </p> 
 
 <div style="clear:both;"></div>
