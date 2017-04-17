@@ -18,6 +18,8 @@ Your browser does not support the video tag.
 </div>
 
 
+<a href="images/4dqc-whiteboard-video.webm" class="html5lightbox" data-width="480" data-height="320" title="4DQC Whiteboard Video">Video</a>
+
 </div>
 </div>
 </div>
