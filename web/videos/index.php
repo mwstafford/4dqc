@@ -10,9 +10,9 @@ include($_SERVER['DOCUMENT_ROOT'].'/includes/menu1.php');
 <div class="content-sub2">
 
 <div>
-<video controls="controls" style="width=:720px; height:400px;" preload="auto" >
-<source src="4dqc-whiteboard-video.mp4" type="video/mp4" />
+<video controls="controls" style="width=:720px; height:400px;">
 <source src="4dqc-whiteboard-video.webm" type="video/webm" />
+<source src="4dqc-whiteboard-video.mp4" type="video/mp4" />
 Your browser does not support the video tag.
 </video>
 </div>
